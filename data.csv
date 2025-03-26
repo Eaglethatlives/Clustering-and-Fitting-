@@ -1,1 +1,478 @@
-You will need to replace this file with your actual data, keep the filename the same.
+state,state_abbr,gender_group,age_group,population
+Alabama,AL,Female,<18,536918
+Alabama,AL,Female,18+,1979977
+Alabama,AL,Female,All,2516895
+Alabama,AL,Male,<18,559458
+Alabama,AL,Male,18+,1799897
+Alabama,AL,Male,All,2359355
+Alabama,AL,Both,<18,1096376
+Alabama,AL,Both,18+,3779874
+Alabama,AL,Both,All,4876250
+Alaska,AK,Female,<18,89435
+Alaska,AK,Female,18+,262718
+Alaska,AK,Female,All,352153
+Alaska,AK,Male,<18,94959
+Alaska,AK,Male,18+,289956
+Alaska,AK,Male,All,384915
+Alaska,AK,Both,<18,184394
+Alaska,AK,Both,18+,552674
+Alaska,AK,Both,All,737068
+Arizona,AZ,Female,<18,801163
+Arizona,AZ,Female,18+,2744627
+Arizona,AZ,Female,All,3545790
+Arizona,AZ,Male,<18,834181
+Arizona,AZ,Male,18+,2670328
+Arizona,AZ,Male,All,3504509
+Arizona,AZ,Both,<18,1635344
+Arizona,AZ,Both,18+,5414955
+Arizona,AZ,Both,All,7050299
+Arkansas,AR,Female,<18,344149
+Arkansas,AR,Female,18+,1183461
+Arkansas,AR,Female,All,1527610
+Arkansas,AR,Male,<18,360119
+Arkansas,AR,Male,18+,1111641
+Arkansas,AR,Male,All,1471760
+Arkansas,AR,Both,<18,704268
+Arkansas,AR,Both,18+,2295102
+Arkansas,AR,Both,All,2999370
+California,CA,Female,<18,4411250
+California,CA,Female,18+,15345949
+California,CA,Female,All,19757199
+California,CA,Male,<18,4610896
+California,CA,Male,18+,14915402
+California,CA,Male,All,19526298
+California,CA,Both,<18,9022146
+California,CA,Both,18+,30261351
+California,CA,Both,All,39283497
+Colorado,CO,Female,<18,615975
+Colorado,CO,Female,18+,2171173
+Colorado,CO,Female,All,2787148
+Colorado,CO,Male,<18,645030
+Colorado,CO,Male,18+,2178171
+Colorado,CO,Male,All,2823201
+Colorado,CO,Both,<18,1261005
+Colorado,CO,Both,18+,4349344
+Colorado,CO,Both,All,5610349
+Connecticut,CT,Female,<18,363419
+Connecticut,CT,Female,18+,1467410
+Connecticut,CT,Female,All,1830829
+Connecticut,CT,Male,<18,380414
+Connecticut,CT,Male,18+,1363831
+Connecticut,CT,Male,All,1744245
+Connecticut,CT,Both,<18,743833
+Connecticut,CT,Both,18+,2831241
+Connecticut,CT,Both,All,3575074
+Delaware,DE,Female,<18,100608
+Delaware,DE,Female,18+,393750
+Delaware,DE,Female,All,494358
+Delaware,DE,Male,<18,103076
+Delaware,DE,Male,18+,359814
+Delaware,DE,Male,All,462890
+Delaware,DE,Both,<18,203684
+Delaware,DE,Both,18+,753564
+Delaware,DE,Both,All,957248
+Florida,FL,Female,<18,2045838
+Florida,FL,Female,18+,8634985
+Florida,FL,Female,All,10680823
+Florida,FL,Male,<18,2136624
+Florida,FL,Male,18+,8084189
+Florida,FL,Male,All,10220813
+Florida,FL,Both,<18,4182462
+Florida,FL,Both,18+,16719174
+Florida,FL,Both,All,20901636
+Georgia,GA,Female,<18,1228574
+Georgia,GA,Female,18+,4113177
+Georgia,GA,Female,All,5341751
+Georgia,GA,Male,<18,1276666
+Georgia,GA,Male,18+,3785430
+Georgia,GA,Male,All,5062096
+Georgia,GA,Both,<18,2505240
+Georgia,GA,Both,18+,7898607
+Georgia,GA,Both,All,10403847
+Hawaii,HI,Female,<18,148073
+Hawaii,HI,Female,18+,560761
+Hawaii,HI,Female,All,708834
+Hawaii,HI,Male,<18,156565
+Hawaii,HI,Male,18+,556695
+Hawaii,HI,Male,All,713260
+Hawaii,HI,Both,<18,304638
+Hawaii,HI,Both,18+,1117456
+Hawaii,HI,Both,All,1422094
+Idaho,ID,Female,<18,215455
+Idaho,ID,Female,18+,641270
+Idaho,ID,Female,All,856725
+Idaho,ID,Male,<18,225692
+Idaho,ID,Male,18+,635333
+Idaho,ID,Male,All,861025
+Idaho,ID,Both,<18,441147
+Idaho,ID,Both,18+,1276603
+Idaho,ID,Both,All,1717750
+Illinois,IL,Female,<18,1415640
+Illinois,IL,Female,18+,5082819
+Illinois,IL,Female,All,6498459
+Illinois,IL,Male,<18,1475886
+Illinois,IL,Male,18+,4796286
+Illinois,IL,Male,All,6272172
+Illinois,IL,Both,<18,2891526
+Illinois,IL,Both,18+,9879105
+Illinois,IL,Both,All,12770631
+Indiana,IN,Female,<18,768243
+Indiana,IN,Female,18+,2612614
+Indiana,IN,Female,All,3380857
+Indiana,IN,Male,<18,804248
+Indiana,IN,Male,18+,2480598
+Indiana,IN,Male,All,3284846
+Indiana,IN,Both,<18,1572491
+Indiana,IN,Both,18+,5093212
+Indiana,IN,Both,All,6665703
+Iowa,IA,Female,<18,356541
+Iowa,IA,Female,18+,1224431
+Iowa,IA,Female,All,1580972
+Iowa,IA,Male,<18,372196
+Iowa,IA,Male,18+,1186340
+Iowa,IA,Male,All,1558536
+Iowa,IA,Both,<18,728737
+Iowa,IA,Both,18+,2410771
+Iowa,IA,Both,All,3139508
+Kansas,KS,Female,<18,347133
+Kansas,KS,Female,18+,1112822
+Kansas,KS,Female,All,1459955
+Kansas,KS,Male,<18,363937
+Kansas,KS,Male,18+,1086760
+Kansas,KS,Male,All,1450697
+Kansas,KS,Both,<18,711070
+Kansas,KS,Both,18+,2199582
+Kansas,KS,Both,All,2910652
+Kentucky,KY,Female,<18,491130
+Kentucky,KY,Female,18+,1767000
+Kentucky,KY,Female,All,2258130
+Kentucky,KY,Male,<18,518176
+Kentucky,KY,Male,18+,1672746
+Kentucky,KY,Male,All,2190922
+Kentucky,KY,Both,<18,1009306
+Kentucky,KY,Both,18+,3439746
+Kentucky,KY,Both,All,4449052
+Louisiana,LA,Female,<18,540939
+Louisiana,LA,Female,18+,1844437
+Louisiana,LA,Female,All,2385376
+Louisiana,LA,Male,<18,562411
+Louisiana,LA,Male,18+,1716575
+Louisiana,LA,Male,All,2278986
+Louisiana,LA,Both,<18,1103350
+Louisiana,LA,Both,18+,3561012
+Louisiana,LA,Both,All,4664362
+Maine,ME,Female,<18,122670
+Maine,ME,Female,18+,558880
+Maine,ME,Female,All,681550
+Maine,ME,Male,<18,129828
+Maine,ME,Male,18+,524114
+Maine,ME,Male,All,653942
+Maine,ME,Both,<18,252498
+Maine,ME,Both,18+,1082994
+Maine,ME,Both,All,1335492
+Maryland,MD,Female,<18,656872
+Maryland,MD,Female,18+,2444363
+Maryland,MD,Female,All,3101235
+Maryland,MD,Male,<18,684810
+Maryland,MD,Male,18+,2232803
+Maryland,MD,Male,All,2917613
+Maryland,MD,Both,<18,1341682
+Maryland,MD,Both,18+,4677166
+Maryland,MD,Both,All,6018848
+Massachusetts,MA,Female,<18,670893
+Massachusetts,MA,Female,18+,2855453
+Massachusetts,MA,Female,All,3526346
+Massachusetts,MA,Male,<18,700367
+Massachusetts,MA,Male,18+,2623840
+Massachusetts,MA,Male,All,3324207
+Massachusetts,MA,Both,<18,1371260
+Massachusetts,MA,Both,18+,5479293
+Massachusetts,MA,Both,All,6850553
+Michigan,MI,Female,<18,1063288
+Michigan,MI,Female,18+,3996737
+Michigan,MI,Female,All,5060025
+Michigan,MI,Male,<18,1114590
+Michigan,MI,Male,18+,3790650
+Michigan,MI,Male,All,4905240
+Michigan,MI,Both,<18,2177878
+Michigan,MI,Both,18+,7787387
+Michigan,MI,Both,All,9965265
+Minnesota,MN,Female,<18,632696
+Minnesota,MN,Female,18+,2159809
+Minnesota,MN,Female,All,2792505
+Minnesota,MN,Male,<18,663152
+Minnesota,MN,Male,18+,2107721
+Minnesota,MN,Male,All,2770873
+Minnesota,MN,Both,<18,1295848
+Minnesota,MN,Both,18+,4267530
+Minnesota,MN,Both,All,5563378
+Mississippi,MS,Female,<18,348994
+Mississippi,MS,Female,18+,1187551
+Mississippi,MS,Female,All,1536545
+Mississippi,MS,Male,<18,364499
+Mississippi,MS,Male,18+,1083374
+Mississippi,MS,Male,All,1447873
+Mississippi,MS,Both,<18,713493
+Mississippi,MS,Both,18+,2270925
+Mississippi,MS,Both,All,2984418
+Missouri,MO,Female,<18,674269
+Missouri,MO,Female,18+,2434916
+Missouri,MO,Female,All,3109185
+Missouri,MO,Male,<18,707343
+Missouri,MO,Male,18+,2288382
+Missouri,MO,Male,All,2995725
+Missouri,MO,Both,<18,1381612
+Missouri,MO,Both,18+,4723298
+Missouri,MO,Both,All,6104910
+Montana,MT,Female,<18,110866
+Montana,MT,Female,18+,411210
+Montana,MT,Female,All,522076
+Montana,MT,Male,<18,117520
+Montana,MT,Male,18+,411053
+Montana,MT,Male,All,528573
+Montana,MT,Both,<18,228386
+Montana,MT,Both,18+,822263
+Montana,MT,Both,All,1050649
+Nebraska,NE,Female,<18,230769
+Nebraska,NE,Female,18+,728852
+Nebraska,NE,Female,All,959621
+Nebraska,NE,Male,<18,243338
+Nebraska,NE,Male,18+,711612
+Nebraska,NE,Male,All,954950
+Nebraska,NE,Both,<18,474107
+Nebraska,NE,Both,18+,1440464
+Nebraska,NE,Both,All,1914571
+Nevada,NV,Female,<18,333198
+Nevada,NV,Female,18+,1147890
+Nevada,NV,Female,All,1481088
+Nevada,NV,Male,<18,347844
+Nevada,NV,Male,18+,1143450
+Nevada,NV,Male,All,1491294
+Nevada,NV,Both,<18,681042
+Nevada,NV,Both,18+,2291340
+Nevada,NV,Both,All,2972382
+New Hampshire,NH,Female,<18,126952
+New Hampshire,NH,Female,18+,553483
+New Hampshire,NH,Female,All,680435
+New Hampshire,NH,Male,<18,133012
+New Hampshire,NH,Male,18+,534677
+New Hampshire,NH,Male,All,667689
+New Hampshire,NH,Both,<18,259964
+New Hampshire,NH,Both,18+,1088160
+New Hampshire,NH,Both,All,1348124
+New Jersey,NJ,Female,<18,960357
+New Jersey,NJ,Female,18+,3583114
+New Jersey,NJ,Female,All,4543471
+New Jersey,NJ,Male,<18,1001164
+New Jersey,NJ,Male,18+,3333868
+New Jersey,NJ,Male,All,4335032
+New Jersey,NJ,Both,<18,1961521
+New Jersey,NJ,Both,18+,6916982
+New Jersey,NJ,Both,All,8878503
+New Mexico,NM,Female,<18,238947
+New Mexico,NM,Female,18+,817317
+New Mexico,NM,Female,All,1056264
+New Mexico,NM,Male,<18,249529
+New Mexico,NM,Male,18+,786661
+New Mexico,NM,Male,All,1036190
+New Mexico,NM,Both,<18,488476
+New Mexico,NM,Both,18+,1603978
+New Mexico,NM,Both,All,2092454
+New York,NY,Female,<18,2007589
+New York,NY,Female,18+,8063729
+New York,NY,Female,All,10071318
+New York,NY,Male,<18,2100910
+New York,NY,Male,18+,7400091
+New York,NY,Male,All,9501001
+New York,NY,Both,<18,4108499
+New York,NY,Both,18+,15463820
+New York,NY,Both,All,19572319
+North Carolina,NC,Female,<18,1123755
+North Carolina,NC,Female,18+,4144483
+North Carolina,NC,Female,All,5268238
+North Carolina,NC,Male,<18,1172859
+North Carolina,NC,Male,18+,3823779
+North Carolina,NC,Male,All,4996638
+North Carolina,NC,Both,<18,2296614
+North Carolina,NC,Both,18+,7968262
+North Carolina,NC,Both,All,10264876
+North Dakota,ND,Female,<18,85612
+North Dakota,ND,Female,18+,283550
+North Dakota,ND,Female,All,369162
+North Dakota,ND,Male,<18,90132
+North Dakota,ND,Male,18+,297423
+North Dakota,ND,Male,All,387555
+North Dakota,ND,Both,<18,175744
+North Dakota,ND,Both,18+,580973
+North Dakota,ND,Both,All,756717
+Ohio,OH,Female,<18,1272323
+Ohio,OH,Female,18+,4671309
+Ohio,OH,Female,All,5943632
+Ohio,OH,Male,<18,1332687
+Ohio,OH,Male,18+,4379078
+Ohio,OH,Male,All,5711765
+Ohio,OH,Both,<18,2605010
+Ohio,OH,Both,18+,9050387
+Ohio,OH,Both,All,11655397
+Oklahoma,OK,Female,<18,467177
+Oklahoma,OK,Female,18+,1516165
+Oklahoma,OK,Female,All,1983342
+Oklahoma,OK,Male,<18,489787
+Oklahoma,OK,Male,18+,1459741
+Oklahoma,OK,Male,All,1949528
+Oklahoma,OK,Both,<18,956964
+Oklahoma,OK,Both,18+,2975906
+Oklahoma,OK,Both,All,3932870
+Oregon,OR,Female,<18,422917
+Oregon,OR,Female,18+,1659548
+Oregon,OR,Female,All,2082465
+Oregon,OR,Male,<18,445026
+Oregon,OR,Male,18+,1602312
+Oregon,OR,Male,All,2047338
+Oregon,OR,Both,<18,867943
+Oregon,OR,Both,18+,3261860
+Oregon,OR,Both,All,4129803
+Pennsylvania,PA,Female,<18,1299738
+Pennsylvania,PA,Female,18+,5226679
+Pennsylvania,PA,Female,All,6526417
+Pennsylvania,PA,Male,<18,1362653
+Pennsylvania,PA,Male,18+,4902460
+Pennsylvania,PA,Male,All,6265113
+Pennsylvania,PA,Both,<18,2662391
+Pennsylvania,PA,Both,18+,10129139
+Pennsylvania,PA,Both,All,12791530
+Puerto Rico,PR,Female,<18,317469
+Puerto Rico,PR,Female,18+,1422660
+Puerto Rico,PR,Female,All,1740129
+Puerto Rico,PR,Male,<18,330877
+Puerto Rico,PR,Male,18+,1247441
+Puerto Rico,PR,Male,All,1578318
+Puerto Rico,PR,Both,<18,648346
+Puerto Rico,PR,Both,18+,2670101
+Puerto Rico,PR,Both,All,3318447
+Rhode Island,RI,Female,<18,101234
+Rhode Island,RI,Female,18+,442205
+Rhode Island,RI,Female,All,543439
+Rhode Island,RI,Male,<18,106110
+Rhode Island,RI,Male,18+,407682
+Rhode Island,RI,Male,All,513792
+Rhode Island,RI,Both,<18,207344
+Rhode Island,RI,Both,18+,849887
+Rhode Island,RI,Both,All,1057231
+South Carolina,SC,Female,<18,540753
+South Carolina,SC,Female,18+,2044581
+South Carolina,SC,Female,All,2585334
+South Carolina,SC,Male,<18,561749
+South Carolina,SC,Male,18+,1873723
+South Carolina,SC,Male,All,2435472
+South Carolina,SC,Both,<18,1102502
+South Carolina,SC,Both,18+,3918304
+South Carolina,SC,Both,All,5020806
+South Dakota,SD,Female,<18,104387
+South Dakota,SD,Female,18+,327305
+South Dakota,SD,Female,All,431692
+South Dakota,SD,Male,<18,109721
+South Dakota,SD,Male,18+,329225
+South Dakota,SD,Male,All,438946
+South Dakota,SD,Both,<18,214108
+South Dakota,SD,Both,18+,656530
+South Dakota,SD,Both,All,870638
+Tennessee,TN,Female,<18,735714
+Tennessee,TN,Female,18+,2700364
+Tennessee,TN,Female,All,3436078
+Tennessee,TN,Male,<18,769206
+Tennessee,TN,Male,18+,2504072
+Tennessee,TN,Male,All,3273278
+Tennessee,TN,Both,<18,1504920
+Tennessee,TN,Both,18+,5204436
+Tennessee,TN,Both,All,6709356
+Texas,TX,Female,<18,3596550
+Texas,TX,Female,18+,10630297
+Texas,TX,Female,All,14226847
+Texas,TX,Male,<18,3741895
+Texas,TX,Male,18+,10292114
+Texas,TX,Male,All,14034009
+Texas,TX,Both,<18,7338445
+Texas,TX,Both,18+,20922411
+Texas,TX,Both,All,28260856
+United States (States and DC),US,Female,<18,35902858
+United States (States and DC),US,Female,18+,128908018
+United States (States and DC),US,Female,All,164810876
+United States (States and DC),US,Male,<18,37526534
+United States (States and DC),US,Male,18+,122360385
+United States (States and DC),US,Male,All,159886919
+United States (States and DC),US,Both,<18,73429392
+United States (States and DC),US,Both,18+,251268403
+United States (States and DC),US,Both,All,324697795
+Utah,UT,Female,<18,449047
+Utah,UT,Female,18+,1088933
+Utah,UT,Female,All,1537980
+Utah,UT,Male,<18,474536
+Utah,UT,Male,18+,1084332
+Utah,UT,Male,All,1558868
+Utah,UT,Both,<18,923583
+Utah,UT,Both,18+,2173265
+Utah,UT,Both,All,3096848
+Vermont,VT,Female,<18,56555
+Vermont,VT,Female,18+,259661
+Vermont,VT,Female,All,316216
+Vermont,VT,Male,<18,60099
+Vermont,VT,Male,18+,247998
+Vermont,VT,Male,All,308097
+Vermont,VT,Both,<18,116654
+Vermont,VT,Both,18+,507659
+Vermont,VT,Both,All,624313
+Virginia,VA,Female,<18,912501
+Virginia,VA,Female,18+,3382789
+Virginia,VA,Female,All,4295290
+Virginia,VA,Male,<18,953198
+Virginia,VA,Male,18+,3205975
+Virginia,VA,Male,All,4159173
+Virginia,VA,Both,<18,1865699
+Virginia,VA,Both,18+,6588764
+Virginia,VA,Both,All,8454463
+Washington,WA,Female,<18,802522
+Washington,WA,Female,18+,2898284
+Washington,WA,Female,All,3700806
+Washington,WA,Male,<18,841024
+Washington,WA,Male,18+,2862277
+Washington,WA,Male,All,3703301
+Washington,WA,Both,<18,1643546
+Washington,WA,Both,18+,5760561
+Washington,WA,Both,All,7404107
+"Washington, DC",DC,Female,<18,61308
+"Washington, DC",DC,Female,18+,302731
+"Washington, DC",DC,Female,All,364039
+"Washington, DC",DC,Male,<18,62622
+"Washington, DC",DC,Male,18+,266022
+"Washington, DC",DC,Male,All,328644
+"Washington, DC",DC,Both,<18,123930
+"Washington, DC",DC,Both,18+,568753
+"Washington, DC",DC,Both,All,692683
+West Virginia,WV,Female,<18,180502
+West Virginia,WV,Female,18+,738225
+West Virginia,WV,Female,All,918727
+West Virginia,WV,Male,<18,188936
+West Virginia,WV,Male,18+,709642
+West Virginia,WV,Male,All,898578
+West Virginia,WV,Both,<18,369438
+West Virginia,WV,Both,18+,1447867
+West Virginia,WV,Both,All,1817305
+Wisconsin,WI,Female,<18,625352
+Wisconsin,WI,Female,18+,2285470
+Wisconsin,WI,Female,All,2910822
+Wisconsin,WI,Male,<18,655551
+Wisconsin,WI,Male,18+,2224343
+Wisconsin,WI,Male,All,2879894
+Wisconsin,WI,Both,<18,1280903
+Wisconsin,WI,Both,18+,4509813
+Wisconsin,WI,Both,All,5790716
+Wyoming,WY,Female,<18,66068
+Wyoming,WY,Female,18+,218754
+Wyoming,WY,Female,All,284822
+Wyoming,WY,Male,<18,70303
+Wyoming,WY,Male,18+,225899
+Wyoming,WY,Male,All,296202
+Wyoming,WY,Both,<18,136371
+Wyoming,WY,Both,18+,444653
+Wyoming,WY,Both,All,581024
